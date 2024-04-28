@@ -65,6 +65,9 @@ importers:
       posthog-js:
         specifier: ^1.20.2
         version: 1.130.0
+      prismjs:
+        specifier: ^1.29.0
+        version: 1.29.0
       react:
         specifier: ^18.2.0
         version: 18.3.1
@@ -2632,6 +2635,9 @@ packages:
 
   yoga-wasm-web@0.1.2:
     resolution: {integrity: sha512-8SkgawHcA0RUbMrnhxbaQkZDBi8rMed8pQHixkFF9w32zGhAwZ9/cOHWlpYfr6RCx42Yp3siV45/jPEkJxsk6w==}
+
+hoist-pattern:
+  - prismjs/**
 
 snapshots:
 
